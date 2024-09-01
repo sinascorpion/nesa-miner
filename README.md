@@ -5,7 +5,7 @@
 
 ## Hardware Requirement
 ![image](https://github.com/user-attachments/assets/fc99390f-66cf-4931-8aca-675597fa0db4)
-> GPU is not necessary and you can run your miner CPU-only
+> **GPU is not necessary and you can run your miner CPU-only**
 
 
 ## Step 1: Install Dependecies
