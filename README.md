@@ -15,6 +15,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev -y
 ```
 ### 2. Install Docker
+❗️ If you use windows wsl+ docker windows you can skip this step
 ```console
 sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install ca-certificates curl
